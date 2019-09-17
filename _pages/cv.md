@@ -1,21 +1,22 @@
 Personal Details
 ================
 
-Name Peter James [KOOTSOOKOS]{.underline}
+Name 
+ > Peter James **KOOTSOOKOS**
 
-Citizenship Australia, Ireland, USA
+Citizenship 
+ > Australia, Ireland, USA
 
-Telephone +1 860 269 0080 (Work)
+Telephone 
+ > +1 860 269 0080 (Work)
+ > +1 860 206 7488 (Home)
+ > +1 860 543 5917 (Cell)
 
-> +1 860 206 7488 (Home)
->
-> +1 860 543 5917 (Cell)
+Home Address 
+ > 119 High Wood Road, West Hartford, CT 06117-1123, USA
 
-Home Address 119 High Wood Road
-
-> West Hartford, CT 06117-1123, USA
-
-E-mail Address <p.kootsookos@ieee.org>
+E-mail Address 
+ > <p.kootsookos@ieee.org>
 
 Skills
 ======
@@ -119,7 +120,7 @@ teaching:
     for DC and AC circuits. Ohm's law, mesh analysis, nodal analysis,
     superposition, maximum power transfer, Thevenin equivalents, Norton
     equivalents, phasors, steady state, and transient analysis.
-    (F17,S18,F18,S19,SM19[^1],F19[^2])
+    (F17,S18,F18,S19,SM19,F19)
 
 -   *CET363 Digital Circuits:* Introduction to digital circuits and
     number systems, boolean algebra, combinatorial and sequential logic
@@ -128,7 +129,7 @@ teaching:
 -   *CET466 Logic Design:* Use of VHDL to implement digital designs.
     (F18)
 
--   *CET497/498*[^3] *Capstone I & II:* Leading teams of senior students
+-   *CET497/498* *Capstone I & II:* Leading teams of senior students
     in developing their capstone projects. (S19/F19)
 
 ### Software Architect, Noster Mobile (02/2013 to 12/2018)
@@ -464,10 +465,8 @@ Published Conference Papers
 ---------------------------
 
 1.  P.J. Kootsookos, \"Target Estimation Using Binary Sensors,\" 5th Workshop on Defence Applications of Signal Processing, Fraser Island, Australia, December 10-14, 2006.
-    -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 2.  Payman Sadegh, Julio Concha, Slaven Stricevic, Adrian Thompson, and Peter J. Kootsookos, \"A Framework for Unified Design of Fault Detection & Isolation and Optimal Maintenance Policies,\" Submitted to: American Control Conference 2006, Special Session on PHM. \[[eprint](https://espace.library.uq.edu.au/view/UQ:8534)\]
-    --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 3.  J. Homer, P.J. Kootsookos, V. Selvaraju,  "DOA-Detection Guided NLMS
     Adaptive Array," EUSIPCO 2005, Antalya, Turkey, September 4-8, 2005.
@@ -647,11 +646,6 @@ Technical Reports
     Fault Leading to Failure on or about October 6th, 1995," CRASys
     Technical Report \[**Commercially Restricted**\].
 
-[^1]: CET236 to be taught in the Summer of 2019.
-
-[^2]: CET236 to be taught in the Fall of 2019.
-
-[^3]: CET498 Capstone II to be taught in Fall 2019.
 
 [^4]: MVT was purchased by Agilent Technologies in 03/2001 and is now an
     operation within the Imaging Division of Agilent's Manufacturing

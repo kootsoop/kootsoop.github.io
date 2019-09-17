@@ -14,4 +14,4 @@ Peter is interested in a variety of things:
  * [Coaching Kids](http://www.wehasoccer.org/home.php)
  * [The Connecticut Section of the IEEE](https://ieeect.org)
 
-This side is mostly about *Software & Technology*.
+This site is mostly about *Software & Technology*.

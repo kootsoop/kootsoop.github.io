@@ -85,11 +85,11 @@ author:
   bio              : "Peter K.'s GitHub Info"
   location         : "West Hartford, CT, USA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=jf97H1wAAAAJ&hl=en"
   email            : "peter@kootsoop.com"
   researchgate     : "https://www.researchgate.net/profile/Peter_Kootsookos"
-  uri              :
+  uri              : "https://kootsoop.com"
   bitbucket        : 
   codepen          :
   dribbble         :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : "https://dsp.stackexchange.com/users/80/peter-k"
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "kootsoop"
   wikipedia        :
 
 

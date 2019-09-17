@@ -12,21 +12,21 @@ redirect_from:
 Personal Details
 ================
 
-##Name## 
+## Name ## 
  > Peter James **KOOTSOOKOS**
 
-##Citizenship##
+## Citizenship ##
  > Australia, Ireland, USA
 
-##Telephone ##
+## Telephone ##
 > +1 860 269 0080 (Work)
  > +1 860 206 7488 (Home)
  > +1 860 543 5917 (Cell)
 
-##Home Address##
+## Home Address ##
  > 119 High Wood Road, West Hartford, CT 06117-1123, USA
 
-##E-mail Address## 
+## E-mail Address ## 
  > <p.kootsookos@ieee.org>
 
 Skills

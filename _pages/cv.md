@@ -5,15 +5,15 @@ Name Peter James [KOOTSOOKOS]{.underline}
 
 Citizenship Australia, Ireland, USA
 
-Telephone +1 860 269 0080 (Work)
+Telephone 
 
-> +1 860 206 7488 (Home)
->
-> +1 860 543 5917 (Cell)
++1 860 269 0080 (Work)
++1 860 206 7488 (Home)
++1 860 543 5917 (Cell)
 
-Home Address 119 High Wood Road
+Home Address 
 
-> West Hartford, CT 06117-1123, USA
+119 High Wood Road, West Hartford, CT 06117-1123, USA
 
 E-mail Address <p.kootsookos@ieee.org>
 
@@ -464,10 +464,8 @@ Published Conference Papers
 ---------------------------
 
 1.  P.J. Kootsookos, \"Target Estimation Using Binary Sensors,\" 5th Workshop on Defence Applications of Signal Processing, Fraser Island, Australia, December 10-14, 2006.
-    -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 2.  Payman Sadegh, Julio Concha, Slaven Stricevic, Adrian Thompson, and Peter J. Kootsookos, \"A Framework for Unified Design of Fault Detection & Isolation and Optimal Maintenance Policies,\" Submitted to: American Control Conference 2006, Special Session on PHM. \[[eprint](https://espace.library.uq.edu.au/view/UQ:8534)\]
-    --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 3.  J. Homer, P.J. Kootsookos, V. Selvaraju,  "DOA-Detection Guided NLMS
     Adaptive Array," EUSIPCO 2005, Antalya, Turkey, September 4-8, 2005.

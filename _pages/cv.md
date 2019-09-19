@@ -131,6 +131,11 @@ Employed as an adjunct professor teaching:
 Employed as an adjunct professor (emergency faculty during Fall 2018)
 teaching:
 
+-   *CET179 Basic Network Administrations:* Teaching introductory 
+    first level course in network administration. The OSI seven-layer model,
+    simple IPv4 subnetting, number systems, introductory boolean algebra,
+    Linux command line tools. (F19,S20)
+    
 -   *CET236 Circuit Analysis:* Teaching introductory circuit analysis
     for DC and AC circuits. Ohm's law, mesh analysis, nodal analysis,
     superposition, maximum power transfer, Thevenin equivalents, Norton

@@ -20,6 +20,7 @@ At the time of writing, the top five are:
 3. Python
 4. C++
 5. C#
+
 Choose one of these to learn next, however I would probably avoid C and C++ for a beginner who has already worked with Java or JavaScript or C#.
 
 ## Learn about source control

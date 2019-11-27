@@ -48,6 +48,12 @@ The selected student is shown by themselves, and the professor can then swipe le
 
 <img src="https://kootsoop.github.io/images/ComeOnDown-1.png" alt="Come On Down selected student view." width="100" >
 
+## Other thoughts
+
+Other things the app could do:
+
+ * Allowing the courses to be named better. Banner outputs bizarre file names, and it's the same bizarre file name, so all the downloaded CSV files are just numbered versions based on when they were downloaded. 
+ * Tapping on the student picture could bring up more information about them: their full name, their ID, how many times they've answered questions.
 
 
 

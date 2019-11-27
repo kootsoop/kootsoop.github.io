@@ -9,8 +9,8 @@ keywords: []
 slug: /@kootsoop/take-a-number-analysis-to-design-b005ffef47ac
 ---
 
-Now that I [understand the problem](https://medium.com/@kootsoop/take-a-number-requirements-ooa-bb2eb6f16e3c) and 
-have selected the [technology I’m going to use](https://medium.com/@kootsoop/take-a-number-technology-selection-918c7eccc4b4) 
+Now that I [understand the problem](https://kootsoop.github.io/@kootsoop-take-a-number-requirements-ooa-bb2eb6f16e3c) and 
+have selected the [technology I’m going to use](https://kootsoop.github.io/take-a-number-technology-selection-918c7eccc4b4) 
 to implement the take a number system, I need to move from my analysis classes:
 
 ![Analysis classes from simplistic conversion of use case diagram.](https://kootsoop.github.io/images/1_9mnd2zU1pXqcbkgtdx-jYQ.png)

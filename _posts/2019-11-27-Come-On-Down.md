@@ -8,7 +8,7 @@ keywords: []
 slug: /@kootsoop/come-on-down
 ---
 
-![](https://kootsoop.github.io/images/ComeOnDown-AppIcon.png | width=100)
+<img src="https://kootsoop.github.io/images/ComeOnDown-AppIcon.png" alt="Come On Down icon" width="100" height="100">
 
 # Student Engagement : Come On Down
 

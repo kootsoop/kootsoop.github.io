@@ -34,19 +34,19 @@ Below is a first rough cut of my ideas of how the app will work.
 
 The first page of the app shows how to download a CSV file from Banner with the student names in it.  This can be loaded by the app to parse out the student names and IDs.
 
-<img src="https://kootsoop.github.io/images/ComeOnDown-4.png" alt="Come On Down icon" width="100" >
+<img src="https://kootsoop.github.io/images/ComeOnDown-4.png" alt="Come On Down landing page." width="100" >
 
 Once the CSV file is loaded, the app takes the user to a page with all the students' pictures on it.  CCSU classes are generally capped at 24 students, so I've used a 5 x 5 grid of students.
 
-<img src="https://kootsoop.github.io/images/ComeOnDown-3.png" alt="Come On Down icon" width="100" >
+<img src="https://kootsoop.github.io/images/ComeOnDown-3.png" alt="Come On Down list of students in the class." width="100" >
 
 To select a student, navigate to the *Choose Student* tab, and a ListView of students is shown.  Swiping down on the list causes it to be randomized and a student to be selected.
 
-<img src="https://kootsoop.github.io/images/ComeOnDown-2.png" alt="Come On Down icon" width="100" >
+<img src="https://kootsoop.github.io/images/ComeOnDown-2.png" alt="Come On Down list view for selecting students." width="100" >
 
 The selected student is shown by themselves, and the professor can then swipe left if the student is not present or swipe right to ackowledge that the student has answered the question / participated.
 
-<img src="https://kootsoop.github.io/images/ComeOnDown-1.png" alt="Come On Down icon" width="100" >
+<img src="https://kootsoop.github.io/images/ComeOnDown-1.png" alt="Come On Down selected student view." width="100" >
 
 
 

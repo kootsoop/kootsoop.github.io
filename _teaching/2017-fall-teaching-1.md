@@ -8,10 +8,6 @@ date: 2017-08-01
 location: "Fairfield, CT, USA"
 ---
 
-
-SW0421 Software Project Management
-======
-
 Tools and techniques for
 estimating, planning, and executing software projects from a project
 management viewpoint. Traditional waterfall and agile methodologies

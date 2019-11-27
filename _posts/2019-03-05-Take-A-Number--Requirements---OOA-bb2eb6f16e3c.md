@@ -37,7 +37,7 @@ The Take A Number system shall issue notifications to the Customer in less than 
 
 This is what it needs to do.
 
-![](https://cdn-images-1.medium.com/max/800/1*fcpzFmX0L9QYdAh_c9GV2w.png)
+![](1*fcpzFmX0L9QYdAh_c9GV2w.png)
 
 It needs to:
 
@@ -56,25 +56,25 @@ After a bit of playing around, this yields the following analysis classes. Note 
 *   Every use case (except that I merged two of them).
 *   Some of the nouns in the use case reports.
 
-![](https://cdn-images-1.medium.com/max/800/1*9mnd2zU1pXqcbkgtdx-jYQ.png)
+![](1*9mnd2zU1pXqcbkgtdx-jYQ.png)
 
 ### Sequence Diagrams
 
 #### Use Case: Register
 
-![](https://cdn-images-1.medium.com/max/800/1*xMNY8Ykh9vIicTITd5Vb9w.png)
+![](1*xMNY8Ykh9vIicTITd5Vb9w.png)
 
 #### Use Case: Take A Number
 
-![](https://cdn-images-1.medium.com/max/800/1*IUlVlzz4aUVAZvl5JTsP7A.png)
+![](1*IUlVlzz4aUVAZvl5JTsP7A.png)
 
 #### Use Case: Service Next Number
 
-![](https://cdn-images-1.medium.com/max/800/1*UqFgI1zb72SrkHkDwq9F8g.png)
+![](1*UqFgI1zb72SrkHkDwq9F8g.png)
 
 #### Use Case: See Queue Length
 
-![](https://cdn-images-1.medium.com/max/800/1*Q69jg4FX8G9bswfrzJYIEw.png)
+![](1*Q69jg4FX8G9bswfrzJYIEw.png)
 
 ### What’s Next?
 

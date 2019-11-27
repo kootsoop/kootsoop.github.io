@@ -19,4 +19,24 @@ The aim is to engage *all* the class, not just the "squeaky wheels" who will ans
 
 Rather than buy another Lotto Barrel, and to allow this technique to be used across multiple courses in a semester, I decided to develop an app to do the same thing.
 
+## An App
+
+As well as making keeping track of multiple classes easier, an app can add other things too.  One of the things I find difficult to do is to remember all my students' names.  I generally
+get there by the end of semester, but it takes a while.
+
+The app can make use of "Directory Information" that my college has about the student. One of these pieces of information is their student ID picture.  
+
+Below is a first rough cut of my ideas of how the app will work.
+
+![](https://kootsoop.github.io/images/ComeOnDown.png)
+
+
+![](https://kootsoop.github.io/images/ComeOnDown-1.png)
+
+![](https://kootsoop.github.io/images/ComeOnDown-2.png)
+
+![](https://kootsoop.github.io/images/ComeOnDown-3.png)
+
+![](https://kootsoop.github.io/images/ComeOnDown-4.png)
+
 

@@ -56,6 +56,15 @@ technical publications in conferences and international journals.
 Grants and Awards
 =================
 
+**2019/2020 CCSU Excellence In Teaching Honor Roll**
+Nominated by (anonymous) students for excellence in teaching.
+
+**2019/2020 Faculty-Student CCSU Foundation Grant**
+In collaboration with Dr. L. Amaya, and students S. Maynard, S. Santillan, and A. Robles: *Motorized Head Shield for Cars.*
+
+**2019/2020 CCCU Curriculum Development Grant**
+In collaboration with Dr. D. J. Broderick, *Aligning Computer Engineering Technology and Electrical Engineering Curricula with the Fundamentals of Engineering Exam in Connecticut.*
+
 ***2008 UTC Fire & Security President\'s Award for Product Innovation***
 Part of a team that delivered the Modular Video Platform to market.
 

@@ -63,34 +63,36 @@ To update my code, I just need to click the **Upload and Deploy** button in the 
 
 Amazon provides a very simple [example Python website (zip file!)](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/samples/python-v1.zip) that I’ve cut down a bit to check that I can access a local SQLite database.
 
-def application(environ, start\_response):  
-    init\_database()  
+```
+def application(environ, start_response):  
+    init_database()  
     response = welcome  
-    path = environ\['PATH\_INFO'\]  
+    path = environ['PATH_INFO']  
     logger.info("Path is called %s", path)  
-    method = environ\['REQUEST\_METHOD'\]  
+    method = environ['REQUEST_METHOD']  
     logger.info("Method is called %s", method)  
     if method == 'GET':  
         try:  
             if path == '/register':  
                 logger.info("Received register request!")  
-                with sqlite3.connect('take\_a\_number.db') as conn:  
+                with sqlite3.connect('take_a_number.db') as conn:  
                     cursor = conn.cursor()  
-                    rows = cursor.execute('SELECT \* FROM queues')  
-                    for one\_row in rows:  
-                        response = 'Register for ' + one\_row\[1\]  
+                    rows = cursor.execute('SELECT * FROM queues')  
+                    for one_row in rows:  
+                        response = 'Register for ' + one_row[1]  
         except (TypeError, ValueError):  
             logger.warning('Error!')  
     status = '200 OK'  
-    headers = \[('Content-type', 'text/html')\]  
+    headers = [('Content-type', 'text/html')]  
   
-    start\_response(status, headers)  
-    return \[response\]
+    start_response(status, headers)  
+    return [response]
 
-if \_\_name\_\_ == '\_\_main\_\_':  
-    httpd = make\_server('', 8000, application)  
+if __name__ == '__main__':  
+    httpd = make_server('', 8000, application)  
     print("Serving on port 8000...")  
-    httpd.serve\_forever()
+    httpd.serve_forever()
+```
 
 This code (and some other Python setup code and HTML/CSS not shown) generates the web site:
 

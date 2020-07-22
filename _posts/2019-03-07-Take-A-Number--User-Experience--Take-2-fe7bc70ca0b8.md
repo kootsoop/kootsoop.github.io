@@ -41,7 +41,7 @@ The sequence diagram below aims to focus more on the human actors than the syste
 
 The entire _Take A Number_ system is now encapsulated into one object called _TakeANumbeSite_.
 
-![A higher level sequence diagram.](https://cdn-images-1.medium.com/max/800/1*7yRuZYjcYOG17oqhQUBKcw.png)
+![A higher level sequence diagram.](https://kootsoop.github.io/images/1_*7yRuZYjcYOG17oqhQUBKcw.png)
 A higher level sequence diagram.
 
 #### Error in missing requirement
@@ -56,7 +56,7 @@ Vicki also pointed out a specific problem with how the Service will work with th
 
 As Vicki says, the original wireframe below had the important information (who is the servicer helping now?) in smaller font, and completely failed to show the queue length.
 
-![Original wireframe.](https://cdn-images-1.medium.com/max/800/1*nTEJtMCbU8Wa2poRUL-HUw.png)
+![Original wireframe.](https://kootsoop.github.io/images/1_*nTEJtMCbU8Wa2poRUL-HUw.png)
 Original wireframe.
 
 #### Other Issues: Sharing URL to Customers
@@ -89,7 +89,7 @@ So, given the criticisms, let’s redo the wireframes.
 
 After taking into account the discussion above, the updated wireframe for the customer looks like this.
 
-![Updated Customer wireframe.](https://cdn-images-1.medium.com/max/800/1*Vr8vyr17YmW4gvT5n-L6Xw.png)
+![Updated Customer wireframe.](https://kootsoop.github.io/images/1_*Vr8vyr17YmW4gvT5n-L6Xw.png)
 Updated Customer wireframe.
 
 One thing that this suggests to me is: what happens if customer #122 decides they no longer need help? Perhaps a cancel button could be added to the first two screens? I’ll leave that out as “scope creep” for now.
@@ -98,7 +98,7 @@ One thing that this suggests to me is: what happens if customer #122 decides the
 
 The updated Servicer wireframe then looks like this.
 
-![Updated Servicer wireframe.](https://cdn-images-1.medium.com/max/800/1*QlOiI_jfu2X8BRqKv8V1FA.png)
+![Updated Servicer wireframe.](https://kootsoop.github.io/images/1_*QlOiI_jfu2X8BRqKv8V1FA.png)
 Updated Servicer wireframe.
 
 The main changes are to remove the “next” number and only show the “now serving” number and to add the queue length to the display. Also added, though I’m not sure it’s quite right, is the alert box for when a new Customer needs help after the queue is empty.

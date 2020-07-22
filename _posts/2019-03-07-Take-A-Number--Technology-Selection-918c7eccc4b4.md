@@ -30,7 +30,7 @@ To help me do this faster, I decided to try out [Amazon’s Elastic Beanstalk](h
 
 [Recall that the architecture diagram](https://kootsoop.github.io/@kootsoop-take-a-number-high-level-architecture-1c7db43a4d37) looked like the deployment diagram below.
 
-![Architecture deployment diagram.](https://cdn-images-1.medium.com/max/800/1*26gntiLwM5lcaFUG5TkwHA.png)
+![Architecture deployment diagram.](https://kootsoop.github.io/images/1_*26gntiLwM5lcaFUG5TkwHA.png)
 Architecture deployment diagram.
 
 In the previous Architecture post, I mentioned the possibility of using the LAMP stack or the Microsoft stack. For simplicity, let’s take a different tack entirely: let’s use [Python](https://www.python.org/) as our “web server” and execution environment an [SQLite3](https://www.sqlite.org/index.html) as our database.
@@ -39,22 +39,22 @@ In the previous Architecture post, I mentioned the possibility of using the LAMP
 
 After setting up an Amazon AWS account, I’ve clicked Create Application on the Elastic Beanstalk page.
 
-![Create New Application dialog.](https://cdn-images-1.medium.com/max/800/1*hT2Z88my2YyO-sghCk0SGw.png)
+![Create New Application dialog.](https://kootsoop.github.io/images/1_*hT2Z88my2YyO-sghCk0SGw.png)
 Create New Application dialog.
 
 I called the application **TakeANumber**, and I selected Python 3.6 as my environment of choice.
 
-![Environment setup.](https://cdn-images-1.medium.com/max/800/1*iRJAhyV0c_wl_6kxAhs0xw.png)
+![Environment setup.](https://kootsoop.github.io/images/1_*iRJAhyV0c_wl_6kxAhs0xw.png)
 Environment setup.
 
 When I click on this green environment, I am taken to the Dashboard.
 
-![Dashboard for Take A Number.](https://cdn-images-1.medium.com/max/800/1*m3XdLpes6r2pnSPUy6tk7Q.png)
+![Dashboard for Take A Number.](https://kootsoop.github.io/images/1_*m3XdLpes6r2pnSPUy6tk7Q.png)
 Dashboard for Take A Number.
 
 This Dashboard shows me the most recent logs, a top-level health indication, what version of my code I am running, and the configuration that is currently being used.
 
-![Close up view of the **Upload and Deploy** button.](https://cdn-images-1.medium.com/max/800/1*bJfdS4VrayXHwzjnfXdS-w.png)
+![Close up view of the **Upload and Deploy** button.](https://kootsoop.github.io/images/1_*bJfdS4VrayXHwzjnfXdS-w.png)
 Close up view of the **Upload and Deploy** button.
 
 To update my code, I just need to click the **Upload and Deploy** button in the middle, which allows me to upload a zip file of my code.

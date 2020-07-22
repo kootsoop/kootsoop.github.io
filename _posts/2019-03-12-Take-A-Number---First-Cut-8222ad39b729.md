@@ -19,7 +19,7 @@ This is done by the Customer navigating to the URL
 
 If four people had already requested a number, then this is what it looks like:
 
-![](https://cdn-images-1.medium.com/max/800/1*Jy285My6_YsFFdDgfYMKNw.png)
+![](https://kootsoop.github.io/images/1_*Jy285My6_YsFFdDgfYMKNw.png)
 
 And the URL gets rewritten to:
 
@@ -29,7 +29,7 @@ And the URL gets rewritten to:
 
 At the same time, the Servicer view looks like:
 
-![](https://cdn-images-1.medium.com/max/800/1*QFpXlGLQcuV-GcFOa-j8Ug.png)
+![](https://kootsoop.github.io/images/1_*QFpXlGLQcuV-GcFOa-j8Ug.png)
 
 This can be had from the URL:
 
@@ -39,7 +39,7 @@ This can be had from the URL:
 
 At the same time, customer #3 will see:
 
-![](https://cdn-images-1.medium.com/max/800/1*hGIGhwOHib-r1GVJyJgNLQ.png)
+![](https://kootsoop.github.io/images/1_*hGIGhwOHib-r1GVJyJgNLQ.png)
 
 #### The Take A Number system shall allow the Servicer to register with the system.
 
@@ -60,13 +60,13 @@ Note that this is problematic in a couple of ways:
 
 This is shown in the Servicer view above, but two more can be seen in the screenshots below, which will be visible after the Servicer hits the Done! button.
 
-![](https://cdn-images-1.medium.com/max/600/1*vXncGC9p1i8Jn5hB9wCyAg.png)
-![Various views of the system from the Servicer viewpoint.](https://cdn-images-1.medium.com/max/600/1*NI-mByqG4GknP40ve5YUYA.png)
+![](https://kootsoop.github.io/images/1_*vXncGC9p1i8Jn5hB9wCyAg.png)
+![Various views of the system from the Servicer viewpoint.](https://kootsoop.github.io/images/1_*NI-mByqG4GknP40ve5YUYA.png)
 Various views of the system from the Servicer viewpoint.
 
 Once there are no more Customers to be served, the system shows the display below.
 
-![“All done!” view of Take A Number.](https://cdn-images-1.medium.com/max/800/1*nkL9JFr6U5gJZdRqRWgetQ.png)
+![“All done!” view of Take A Number.](https://kootsoop.github.io/images/1_*nkL9JFr6U5gJZdRqRWgetQ.png)
 “All done!” view of Take A Number.
 
 ### Non-Functional Requirements
@@ -81,12 +81,12 @@ This is because the way the “notifications” happen is by refreshing the page
 
 The system is currently set up to show everything through the same simple HTML page made up of two **<div>**s.
 
-![Basic HTML.](https://cdn-images-1.medium.com/max/800/1*YW3AixU_VCbu7PGAfkNDxg.png)
+![Basic HTML.](https://kootsoop.github.io/images/1_*YW3AixU_VCbu7PGAfkNDxg.png)
 Basic HTML.
 
 As you can see, there’s nothing there by default. Once the page is loaded, the **replaceContent()** method is called to update the **<div>**s.
 
-![Javascript used to implement the update.](https://cdn-images-1.medium.com/max/800/1*N_ozi27N3nIOZQgaCdIfKw.png)
+![Javascript used to implement the update.](https://kootsoop.github.io/images/1_*N_ozi27N3nIOZQgaCdIfKw.png)
 Javascript used to implement the update.
 
 Note that I’ve used the **history.replaceState()** Javascript method. This method replaces the current URL with a new URL, rather than creating a new URL in the browser history. I’ve taken this option to stop the user hitting the back button on the browser and creating a new Customer or queue.
@@ -100,7 +100,7 @@ There are four items that change for each page:
 
 The refresh is done using the meta tag below.
 
-![Refresh meta tag.](https://cdn-images-1.medium.com/max/800/1*-lTvfmsVvNuu4XJxBUQp1A.png)
+![Refresh meta tag.](https://kootsoop.github.io/images/1_*-lTvfmsVvNuu4XJxBUQp1A.png)
 Refresh meta tag.
 
 ### Things Undone
@@ -119,7 +119,7 @@ To see how big an issue the Security piece is, and to see if the deployed system
 
 More of a technical issue is that the GET requests for servicing a Customer and creating a new Customer are done using GET requests, which is not compliant with HTTP. GET requests are supposed to be idempotent and safe, as pointed out by oded on the [Software Engineering Stack Exchange site](https://softwareengineering.stackexchange.com/a/188861/2722).
 
-![Information about HTTP GET on Stack Exchange’s Software Engineering site.](https://cdn-images-1.medium.com/max/800/1*fcUAcs3hGNzr76exuPVJsg.png)
+![Information about HTTP GET on Stack Exchange’s Software Engineering site.](https://kootsoop.github.io/images/1_*fcUAcs3hGNzr76exuPVJsg.png)
 Information about HTTP GET on Stack Exchange’s Software Engineering site.
 
 #### Reliability
@@ -130,7 +130,7 @@ While developing this Python code and with other, more commercial, Python code, 
 
 Needless to say, the user interface is butt-ugly. I started with the Amazon example code, and just modified it slightly. It would be nice to get a prettier user interface that deals with mobile phone changes more sensibly. See the screenshot below or an example of what it currently doesn’t do well.
 
-![The Take A Number site on a mobile device in landscape mode.](https://cdn-images-1.medium.com/max/800/1*sWNCbsLGmyatsseHKbS_nw.jpeg)
+![The Take A Number site on a mobile device in landscape mode.](https://kootsoop.github.io/images/1_*sWNCbsLGmyatsseHKbS_nw.jpeg)
 The Take A Number site on a mobile device in landscape mode.
 
 #### Multiple Servicers

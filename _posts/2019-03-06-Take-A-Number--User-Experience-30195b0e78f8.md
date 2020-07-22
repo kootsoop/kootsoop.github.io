@@ -19,7 +19,7 @@ The Customer is the person who wants to be served, given that the Servicer is cu
 
 Their view of the website should be something like this.
 
-![How the Customer view of the website changes.](https://cdn-images-1.medium.com/max/800/1*Rxr3jtBgDRMAYQvVmuyb4g.png)
+![How the Customer view of the website changes.](https://kootsoop.github.io/images/1_*Rxr3jtBgDRMAYQvVmuyb4g.png)
 How the Customer view of the website changes.
 
 I generated this mockup in [Balasmiq Mockups](https://balsamiq.com/wireframes/desktop). This is a very simple, but very quick way of generating user interface wireframes to try out flows of applications. It is especially good because it’s all in black and white: this and the “unprofessional” sans font indicates that it’s **not fit for production** and is only a draft.
@@ -36,7 +36,7 @@ The Servicer is the person who will be helping the queue of Customers.
 
 Their workflow is a little more complex than that of the Customer, but not overly so.
 
-![How the Servicer view of the website changes.](https://cdn-images-1.medium.com/max/800/1*nTEJtMCbU8Wa2poRUL-HUw.png)
+![How the Servicer view of the website changes.](https://kootsoop.github.io/images/1_*nTEJtMCbU8Wa2poRUL-HUw.png)
 How the Servicer view of the website changes.
 
 This view of the page shows Customer number currently being served, the next number to be served, and has a button that allows the Servicer to go to the next Customer.

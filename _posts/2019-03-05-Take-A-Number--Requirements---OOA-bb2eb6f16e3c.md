@@ -78,4 +78,4 @@ After a bit of playing around, this yields the following analysis classes. Note 
 
 ### What’s Next?
 
-Now that we’ve fleshed out the shall statements a little with use cases and analysis classes, we need to switch to high level design to answer the question: [what technology are we going to use to implement this?](https://medium.com/@kootsoop/take-a-number-high-level-architecture-1c7db43a4d37)
+Now that we’ve fleshed out the shall statements a little with use cases and analysis classes, we need to switch to high level design to answer the question: [what technology are we going to use to implement this?](https://kootsoop.github.io/@kootsoop-take-a-number-high-level-architecture-1c7db43a4d37/)

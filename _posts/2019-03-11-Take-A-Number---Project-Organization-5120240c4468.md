@@ -19,13 +19,13 @@ The example code is essentially as below.
 
 If there is a POST method coming in, it does one thing, otherwise it’ll just print the welcome message.
 
-![](https://kootsoop.github.io/images/1_*NmE1nANv7-jr7s0U9R1Lxg.png)
+![](https://kootsoop.github.io/images/1_NmE1nANv7-jr7s0U9R1Lxg.png)
 
 The part at the end is just setting up the server to listen on port 8000 for incoming HTTP requests.
 
 The GET requests to this just return what is shown in the screen capture below.
 
-![Screen capture of Amazon example code.](https://kootsoop.github.io/images/1_*oFn2ExVCFXjfXKkeYvt3cg.png)
+![Screen capture of Amazon example code.](https://kootsoop.github.io/images/1_oFn2ExVCFXjfXKkeYvt3cg.png)
 Screen capture of Amazon example code.
 
 #### Good Things
@@ -44,7 +44,7 @@ Another problem, from the **Take A Number** perspective, is that there is no rea
 
 After a bit of fiddling, I decided on the following structure for the project.
 
-![Take A Number project structure in PyCharm CE.](https://kootsoop.github.io/images/1_*cPOvt7XAesD3HPjrkJeV6w.png)
+![Take A Number project structure in PyCharm CE.](https://kootsoop.github.io/images/1_cPOvt7XAesD3HPjrkJeV6w.png)
 Take A Number project structure in PyCharm CE.
 
 #### tests
@@ -57,7 +57,7 @@ In the screenshot above, there are tests for the application, customer, queues, 
 
 This file is what came with the original Amazon example. It contains the HTML of the project and starts the server. To make things a bit more object-oriented, I decided to make the code here a little simpler as indicated below.
 
-![](https://kootsoop.github.io/images/1_*2PgfqSjQLY-pNkUaUkEGBg.png)
+![](https://kootsoop.github.io/images/1_2PgfqSjQLY-pNkUaUkEGBg.png)
 
 All the code for this application is in the **TakeANumber** class.
 
@@ -65,14 +65,14 @@ All the code for this application is in the **TakeANumber** class.
 
 The main class is the TakeANumber class. It’s pretty simple so far, as can be seen from the method signatures in the screenshot below.
 
-![Outline of the TakeANumber class.](https://kootsoop.github.io/images/1_*XH2JChQC9oU4PCZlJ2dD2g.png)
+![Outline of the TakeANumber class.](https://kootsoop.github.io/images/1_XH2JChQC9oU4PCZlJ2dD2g.png)
 Outline of the TakeANumber class.
 
 The main entry point is, as can be seen from the application.py file, the **run()** method. The **parse\_path()** method determines what sort of call has come into the system, and deals with it either using the **customer\_response()** or **servicer\_response()** methods. The **replace\_placeholders()** method is a utility method for updating the contents of the HTML that comes from application.py.
 
 One somewhat frustrating thing about Python, for a C programmer, is that there is no switch statement available. However, because Python has associative arrays (AKA [dictionaries](https://docs.python.org/2/tutorial/datastructures.html#dictionaries)), we can do something like this instead:
 
-![Responses for different incoming URL paths.](https://kootsoop.github.io/images/1_*KDde5mPTG5VsZiK2AWal1Q.png)
+![Responses for different incoming URL paths.](https://kootsoop.github.io/images/1_KDde5mPTG5VsZiK2AWal1Q.png)
 Responses for different incoming URL paths.
 
 So the call to **customer\_response()** is done using **responses\[‘customer’\](),** and I can check to see if the key exists by checking **responses.keys()**.
@@ -81,14 +81,14 @@ So the call to **customer\_response()** is done using **responses\[‘customer�
 
 The Customer class generates the required response using **get\_response()** if this is an existing customer an **get\_new\_number()** if it’s a new customer. The only dependency for this class is the queue.
 
-![Outline of the Customer class.](https://kootsoop.github.io/images/1_*4UarW_7oOpsY01rXl4yd2g.png)
+![Outline of the Customer class.](https://kootsoop.github.io/images/1_4UarW_7oOpsY01rXl4yd2g.png)
 Outline of the Customer class.
 
 #### service.py
 
 The Service class generates the required response using **get\_current\_status()** if the standard polling is happening or **next\_customer()** if the servicer wants to indicate that they’ve finished serving the current Customer number.
 
-![Outline of the Service class.](https://kootsoop.github.io/images/1_*FDWMzPCTOhBtwUsQGsnjOQ.png)
+![Outline of the Service class.](https://kootsoop.github.io/images/1_FDWMzPCTOhBtwUsQGsnjOQ.png)
 Outline of the Service class.
 
 #### queues.py
@@ -109,7 +109,7 @@ The queues class is the most complex class here. It’s responsible for handling
 
 **is\_in\_queue()** checks whether the given **customer\_id** is in the given queue.
 
-![Outline of the Queues class.](https://kootsoop.github.io/images/1_*CowyPGlhCdUhUOhXBX4Hog.png)
+![Outline of the Queues class.](https://kootsoop.github.io/images/1_CowyPGlhCdUhUOhXBX4Hog.png)
 Outline of the Queues class.
 
 #### log.py
@@ -120,28 +120,28 @@ This class was introduced because of the haphazard way the logging was set up in
 
 This is a placeholder class for the next set of functionality. Given the signatures of the Customer and Service classes, I expect this will change to take the **database\_name**… or I will change the other classes to take the **queue** as a constructor parameter.
 
-![Placeholder Registration class.](https://kootsoop.github.io/images/1_*28Xdp6_h9NGuWpyR4FT6mQ.png)
+![Placeholder Registration class.](https://kootsoop.github.io/images/1_28Xdp6_h9NGuWpyR4FT6mQ.png)
 Placeholder Registration class.
 
 ### Tests
 
 The nice thing about PyCharm CE is that I can execute and debug tests within the IDE.
 
-![Running unit tests.](https://kootsoop.github.io/images/1_*GZk6VSg72q3timK3hiJLSA.png)
+![Running unit tests.](https://kootsoop.github.io/images/1_GZk6VSg72q3timK3hiJLSA.png)
 Running unit tests.
 
 I currently have 30 tests.
 
-![Results of test run.](https://kootsoop.github.io/images/1_*GImIEzCo8ucUl1RCMMqtOA.png)
+![Results of test run.](https://kootsoop.github.io/images/1_GImIEzCo8ucUl1RCMMqtOA.png)
 Results of test run.
 
 And I can debug specific tests too.
 
-![](https://kootsoop.github.io/images/1_*-DDfcIEfEsN132DwVtLD5g.png)
+![](https://kootsoop.github.io/images/1_-DDfcIEfEsN132DwVtLD5g.png)
 
 Even better, the IDE allows unit tests to be run automatically whenever a change is made to the code. This is one by toggling the indicated button in the screenshot below.
 
-![Button that allows unit tests to be run on code changes.](https://kootsoop.github.io/images/1_*a9NwUkUKfKdMS8gBt8IPNA.png)
+![Button that allows unit tests to be run on code changes.](https://kootsoop.github.io/images/1_a9NwUkUKfKdMS8gBt8IPNA.png)
 Button that allows unit tests to be run on code changes.
 
 ### What’s Next?

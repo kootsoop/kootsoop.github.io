@@ -9,7 +9,7 @@ keywords: []
 slug: /@kootsoop/take-a-number-first-performance-3914bb61d5c4
 ---
 
-As I said in the [last post of this series](https://medium.com/@kootsoop/take-a-number-first-cut-8222ad39b729), I thought it’d be a good start to kicking the tires to run some performance tests using [JMeter](https://jmeter.apache.org/).
+As I said in the [last post of this series](https://kootsoop.github.io/@kootsoop-take-a-number-first-cut-8222ad39b729), I thought it’d be a good start to kicking the tires to run some performance tests using [JMeter](https://jmeter.apache.org/).
 
 ### JMeter: a first attempt.
 
@@ -83,4 +83,4 @@ The instance that this is running on is a t2.micro instance. As you can see it�
 
 ### What’s Next?
 
-I’ll continue going through the **_Things Undone_** list from the [previous post in this series.](https://medium.com/@kootsoop/take-a-number-first-cut-8222ad39b729)
+I’ll continue going through the **_Things Undone_** list from the [previous post in this series.](https://kootsoop.github.io/@kootsoop-take-a-number-first-cut-8222ad39b729)

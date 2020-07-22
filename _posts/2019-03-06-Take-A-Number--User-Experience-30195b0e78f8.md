@@ -9,7 +9,7 @@ keywords: []
 slug: /@kootsoop/take-a-number-user-experience-30195b0e78f8
 ---
 
-Now that we’ve decided on the [high level architecture](https://medium.com/@kootsoop/take-a-number-high-level-architecture-1c7db43a4d37) for Take A Number, we need to think about how the users will use it.
+Now that we’ve decided on the [high level architecture](https://kootsoop.github.io/@kootsoop-take-a-number-high-level-architecture-1c7db43a4d37) for Take A Number, we need to think about how the users will use it.
 
 Let me start by saying I am not a User Experience expert. However, that doesn’t mean I shouldn’t at least try to think about how the user will perceive the Take A Number application / website.
 
@@ -49,6 +49,6 @@ For the use case I envision (my own) I do not see this as a problem.
 
 ### What’s Next?
 
-As [mentioned previously](https://medium.com/@kootsoop/take-a-number-high-level-architecture-1c7db43a4d37), there are many security concerns. The next piece will attempt to address the most egregious of them.
+As [mentioned previously](https://kootsoop.github.io/@kootsoop-take-a-number-high-level-architecture-1c7db43a4d37), there are many security concerns. The next piece will attempt to address the most egregious of them.
 
 However, [Vicki Lane](https://www.linkedin.com/in/vickilane/) of [Square V Design](http://www.squarevdesign.com/) has given me some criticisms of this post, so I’ll try to address these first.

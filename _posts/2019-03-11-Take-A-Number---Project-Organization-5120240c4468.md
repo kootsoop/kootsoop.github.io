@@ -9,7 +9,7 @@ keywords: []
 slug: /@kootsoop/take-a-number-project-organization-5120240c4468
 ---
 
-After taking a stab at the [design classes](https://medium.com/@kootsoop/take-a-number-analysis-to-design-b005ffef47ac), the next step was to start up a project. As I said earlier, I’ve decided to develop this in Python using the [PyCharm CE](https://www.jetbrains.com/pycharm/) development environment.
+After taking a stab at the [design classes](https://kootsoop.github.io/@kootsoop-take-a-number-analysis-to-design-b005ffef47ac), the next step was to start up a project. As I said earlier, I’ve decided to develop this in Python using the [PyCharm CE](https://www.jetbrains.com/pycharm/) development environment.
 
 The Amazon Elastic Beanstalk system comes with an example Python server, so I decided to just start with that and expand it.
 
@@ -146,4 +146,4 @@ Button that allows unit tests to be run on code changes.
 
 ### What’s Next?
 
-The next part of this series will dig a little deeper into [how I’ve implemented this so far…](https://medium.com/@kootsoop/take-a-number-first-cut-8222ad39b729)
+The next part of this series will dig a little deeper into [how I’ve implemented this so far…](https://kootsoop.github.io/@kootsoop-take-a-number-first-cut-8222ad39b729)

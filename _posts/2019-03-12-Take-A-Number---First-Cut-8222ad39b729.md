@@ -7,7 +7,7 @@ keywords: []
 slug: /@kootsoop/take-a-number-first-cut-8222ad39b729
 ---
 
-My first cut at Take A Number is now “complete” : as far as I can tell, it does [what I wanted it to do.](https://medium.com/@kootsoop/take-a-number-requirements-ooa-bb2eb6f16e3c) This post runs through some of the implementation details, and checks to see what else might need to happen to make this workable.
+My first cut at Take A Number is now “complete” : as far as I can tell, it does [what I wanted it to do.](https://kootsoop.github.io/@kootsoop-take-a-number-requirements-ooa-bb2eb6f16e3c) This post runs through some of the implementation details, and checks to see what else might need to happen to make this workable.
 
 ### Functional Requirements
 

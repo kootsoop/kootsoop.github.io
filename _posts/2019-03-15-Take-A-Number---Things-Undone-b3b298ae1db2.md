@@ -9,11 +9,11 @@ keywords: []
 slug: /@kootsoop/take-a-number-things-undone-b3b298ae1db2
 ---
 
-From the [“First Cut”](https://medium.com/@kootsoop/take-a-number-first-cut-8222ad39b729) part of this series, there were several things that were let undone that I felt needed to be addressed.
+From the [“First Cut”](https://kootsoop.github.io/@kootsoop-take-a-number-first-cut-8222ad39b729) part of this series, there were several things that were let undone that I felt needed to be addressed.
 
 The list was:
 
-*   **Scalability testing:** This was reported on [in a previous post.](https://medium.com/@kootsoop/take-a-number-first-performance-3914bb61d5c4) The conclusion of that was that, as-is, for the current use cases, the system performs well. ✅
+*   **Scalability testing:** This was reported on [in a previous post.](https://kootsoop.github.io/@kootsoop-take-a-number-first-performance-3914bb61d5c4) The conclusion of that was that, as-is, for the current use cases, the system performs well. ✅
 *   **Use HTTP POST Requests For Changing System State**: This was an oversight on my part; the system should have always started with adhering to the HTTP protocol. The latest version now has this implemented correctly. ✅
 *   **Reliability**: The system hasn’t locked up again after the first time I saw it, so I haven’t had a chance to debug this at all. ❓
 *   **User Interface**: As part of the HTTP POST update, better naming for buttons has been introduced… but the garish color scheme needs to go. I’ve gone to a simpler grey color scheme that is somewhat better… but I do want to get it to work better with rotations.❓

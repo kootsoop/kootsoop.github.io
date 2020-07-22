@@ -9,7 +9,7 @@ keywords: []
 slug: /@kootsoop/take-a-number-user-experience-take-2-fe7bc70ca0b8
 ---
 
-After publishing [_Take A Number: User Experience_](https://medium.com/@kootsoop/take-a-number-user-experience-30195b0e78f8), I received a critique from [Vick Lane](https://www.linkedin.com/in/vickilane/) who is an [experienced UX professional in Australia](http://www.uxaustralia.com.au/conferences/uxaustralia-2018/speaker/vicki-lane-2018/) at [Square V Design.](http://www.squarevdesign.com/)
+After publishing [_Take A Number: User Experience_](https://kootsoop.github.io/@kootsoop-take-a-number-user-experience-30195b0e78f8), I received a critique from [Vick Lane](https://www.linkedin.com/in/vickilane/) who is an [experienced UX professional in Australia](http://www.uxaustralia.com.au/conferences/uxaustralia-2018/speaker/vicki-lane-2018/) at [Square V Design.](http://www.squarevdesign.com/)
 
 Let’s take her critique piece-by-piece and see how we can improve the user experience.
 
@@ -105,4 +105,4 @@ The main changes are to remove the “next” number and only show the “now se
 
 ### What Next?
 
-Next I’m going to start making some [software architecture and technology decisions](https://medium.com/@kootsoop/take-a-number-technology-selection-918c7eccc4b4) on how this will be implemented.
+Next I’m going to start making some [software architecture and technology decisions](https://kootsoop.github.io/@kootsoop-take-a-number-technology-selection-918c7eccc4b4) on how this will be implemented.

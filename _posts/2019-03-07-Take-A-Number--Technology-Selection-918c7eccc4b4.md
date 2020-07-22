@@ -11,10 +11,10 @@ slug: /@kootsoop/take-a-number-technology-selection-918c7eccc4b4
 
 This is part of the continuing story of _Take A Number_. The previous episodes are:
 
-*   [Requirements / OOA](https://medium.com/@kootsoop/take-a-number-requirements-ooa-bb2eb6f16e3c)
-*   [High Level Architecture](https://medium.com/@kootsoop/take-a-number-high-level-architecture-1c7db43a4d37)
-*   [User Experience](https://medium.com/@kootsoop/take-a-number-user-experience-30195b0e78f8)
-*   [User Experience, Take 2](https://medium.com/@kootsoop/take-a-number-user-experience-take-2-fe7bc70ca0b8)
+*   [Requirements / OOA](https://kootsoop.github.io/@kootsoop-take-a-number-requirements-ooa-bb2eb6f16e3c)
+*   [High Level Architecture](https://kootsoop.github.io/@kootsoop-take-a-number-high-level-architecture-1c7db43a4d37)
+*   [User Experience](https://kootsoop.github.io/@kootsoop-take-a-number-user-experience-30195b0e78f8)
+*   [User Experience, Take 2](https://kootsoop.github.io/@kootsoop-take-a-number-user-experience-take-2-fe7bc70ca0b8)
 
 This episode is going to take a slight different tack: I’m interested in using new technology, if it helps me do my job. Previously, I’ve used Amazon Web Services to:
 
@@ -28,7 +28,7 @@ To help me do this faster, I decided to try out [Amazon’s Elastic Beanstalk](h
 
 ### Architecture Revisited
 
-[Recall that the architecture diagram](https://medium.com/@kootsoop/take-a-number-high-level-architecture-1c7db43a4d37) looked like the deployment diagram below.
+[Recall that the architecture diagram](https://kootsoop.github.io/@kootsoop-take-a-number-high-level-architecture-1c7db43a4d37) looked like the deployment diagram below.
 
 ![Architecture deployment diagram.](https://cdn-images-1.medium.com/max/800/1*26gntiLwM5lcaFUG5TkwHA.png)
 Architecture deployment diagram.

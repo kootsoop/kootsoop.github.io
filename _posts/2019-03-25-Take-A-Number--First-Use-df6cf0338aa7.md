@@ -41,4 +41,4 @@ The figures above assume that the first student served is serviced immediately, 
 
 ### What’s Next?
 
-I’ll revisit the [Undone pieces](https://medium.com/@kootsoop/take-a-number-things-undone-b3b298ae1db2) and the two new updates above.
+I’ll revisit the [Undone pieces](https://kootsoop.github.io/@kootsoop-take-a-number-things-undone-b3b298ae1db2) and the two new updates above.

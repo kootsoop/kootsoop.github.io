@@ -9,7 +9,7 @@ keywords: []
 slug: /@kootsoop/take-a-number-high-level-architecture-1c7db43a4d37
 ---
 
-So we’ve explored [the requirements a little](https://medium.com/@kootsoop/take-a-number-requirements-ooa-bb2eb6f16e3c), now we have to decide how to do this.
+So we’ve explored [the requirements a little](https://kootsoop.github.io/@kootsoop-take-a-number-requirements-ooa-bb2eb6f16e3c/), now we have to decide how to do this.
 
 Let’s assume that everything we want to do will be done via a web browser and that no app will be involved. Obviously server-side code will be needed, but the aim is that neither the Customer and the Servicer require any app to be installed on their device.
 
@@ -35,7 +35,7 @@ Once the student is seen, the cookie can be deleted and the next time they brows
 
 The UML deployment diagram below is a first cut at describing the actual components we’ll use to make the software.
 
-![First cut at high level architecture for Take A Number.](https://cdn-images-1.medium.com/max/800/1*tL22doBYSUXD9AXVXEFHHw.png)
+![First cut at high level architecture for Take A Number.](https://kootsoop.github.io/images/1_tL22doBYSUXD9AXVXEFHHw.png)
 First cut at high level architecture for Take A Number.
 
 #### Devices

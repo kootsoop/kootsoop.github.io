@@ -7,6 +7,9 @@ categories: []
 keywords: [daily]
 slug: /@kootsoop/teaching-data-structures-2021
 ---
+
+<meta property="og:image" content="https://kootsoop.github.io/images/array.png" />
+
 This semester I am teaching [*CPSC 2232 Data Stuctures*](http://catalog.fairfield.edu/courses/cs/) in the computer science and engineering department at Fairfield University. This is the first time I've ever taught a course on data structures, so I've been furiously digging at various resources to bring myself up to speed with it.
 
 The course description says:

@@ -33,7 +33,7 @@ So, for this course, I want to start at the basic level and draw the data struct
 Thankfully, there are [some nice examples](https://stackoverflow.com/a/45143147/12570) of this already available to get me started.
 
 <p align="center">
-<img src="https://i.stack.imgur.com/ze5zp.png" alt="Array shown graphically" width="500" height="200">
+<img src="https://kootsoop.github.io/images/array.png" alt="Array shown graphically" width="500" height="200">
 </p>
 
 The diagram above was generated using the [GraphViz](https://graphviz.org/) software, which I've used before in generating directed graphs for college program prerequisite visualization.

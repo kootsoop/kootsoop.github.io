@@ -8,10 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-# Interests
-Peter is interested in a variety of things:
- * Software & Technology
- * [Coaching Kids](http://www.wehasoccer.org/home.php)
- * [The Connecticut Section of the IEEE](https://ieeect.org)
-
-This site is mostly about *Software & Technology*.
+This website has some of the professional work that Peter Kootsookos does as an engineer.

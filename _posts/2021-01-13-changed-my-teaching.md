@@ -60,5 +60,10 @@ Things that I will continue to do:
  * When doing remote classes, or recording videos, I will use StreamLabs to add the human touch to my presentations.
 
 Below is a video that I made to explain and demonstrate some of this.
+<p align="center">
+[ <img src=""  /> ]()
+</p>
 
-[<p align="center"><img src="https://kootsoop.github.io/images/minime.png" width="320" height="180" /> </p>](https://youtu.be/9ZD3Lzf1vO8)
+<div align="center">
+  <a href="https://youtu.be/9ZD3Lzf1vO8"><img src="https://kootsoop.github.io/images/minime.png" alt="Picture of my video" width="320" height="180" /></a>
+</div>

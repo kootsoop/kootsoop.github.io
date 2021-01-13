@@ -61,4 +61,4 @@ Things that I will continue to do:
 
 Below is a video that I made to explain and demonstrate some of this.
 
-[<p align="center"><img src="https://kootsoop.github.io/images/minime.png" width="320" height="180" /></p>](https://youtu.be/9ZD3Lzf1vO8)
+[<p align="center"><img src="https://kootsoop.github.io/images/minime.png" width="320" height="180" /> </p>](https://youtu.be/9ZD3Lzf1vO8)

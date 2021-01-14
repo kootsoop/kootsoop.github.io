@@ -67,7 +67,7 @@ Let's look at a single class of 24 students.  My time taken up is:
 * 24 x 10 = 240 minutes to grade all exams (assuming 10 minutes average time) 
 * 30 minutes to enter grades into the Learning Management System (LMS), which is usually Blackboard.
 
-This gives a total of about 390 minutes of my time or three and a half hours.
+This gives a total of about 390 minutes of my time or six and a half hours.
 
 Sometimes, it takes me longer. This is because I can't just sit down and grade 24 papers in one sitting.  I know [my sister](https://www.rmit.edu.au/contact/staff-contacts/academic-staff/k/kootsookos-dr-alex) laughs at me for this, but I just can't.  Alex's class sizes are significantly bigger than mine, so she has to deal with an order of magnitude more student exams. But,  that I need to take breaks means that getting back into the grading groove takes extra time.
 

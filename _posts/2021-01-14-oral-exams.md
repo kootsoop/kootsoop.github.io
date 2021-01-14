@@ -8,7 +8,7 @@ keywords: [daily]
 slug: /@kootsoop/oral-exams-2021
 ---
 
-[Yesterday's post](2021-01-13-changed-my-teaching.md) was about how my teaching has changed since the pandemic hit.  One big thing that I've left out of it is my approach to midterm and final exams.
+[Yesterday's post](https://kootsoop.github.io/@kootsoop-changed-my-teaching-2021/) was about how my teaching has changed since the pandemic hit.  One big thing that I've left out of it is my approach to midterm and final exams.
 
 The suggested approach to invigilating (proctoring) online final exams from Central Connecticut State University (CCSU) was to use a Blackboard plugin called [Proctorio](https://proctorio.com/).  I tested it out with a few willing students, but decided that it was [way too intrusive.](https://dailyillini.com/news/2020/04/17/proctorio-concerns/)
 

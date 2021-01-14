@@ -150,6 +150,12 @@ The calculation is:
   * I can use the feedback component to *help teach*, and
   * I get electronic copies of everything.
 
+## Another tool: Bookings or Calendly
+
+Another tool that helped me do this is the [Microsoft Bookings](https://www.microsoft.com/en-us/microsoft-365/business/scheduling-and-booking-app) tool which integrates with my Outlook calendar.  It lets me set up timeframes to allow students to book their own exams, and for me to block out parts of my day when I don't get exams.
+
+For those without the right version of Microsoft tools, [Calendly](https://calendly.com/) provides similar functionality.
+
 # I'm going to keep doing it
 
 I've decided that, even when I go back to in-person teaching completely, I'm going to keep doing midterm and final exams this way.  I think the pedagogical and logistical benefits far outweigh the costs.

@@ -8,6 +8,8 @@ keywords: [daily]
 slug: /@kootsoop/thinking-about-teaching-goals-and-objectives-2021
 ---
 
+<meta property="og:image" content="https://kootsoop.github.io/images/ComeOnDown-AppIcon.png" />
+
 The three key pieces that I've taken away from the Center for Academic Excellence course that I'm doing at the moment are:
 
  * How to structure my course priorities and assessment using *goals and objectives*,

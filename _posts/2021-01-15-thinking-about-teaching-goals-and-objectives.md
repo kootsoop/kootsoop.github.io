@@ -41,7 +41,7 @@ So the topics are, *at minimum* all the different basic data structures and how 
 
 For each of these data structures, I want the students to be able to understand what each of them is, how to implement them in Java or C++ (better: both), what their algorithmic complexity is for the operations they allow, what situations each is best used for and when they're not best used.
 
-### In what ways do *I* want *mys students* to grow?
+### In what ways do *I* want *my students* to grow?
 
 Most students will also not have any idea about the data structures in the course description above, so clearly that's an area of growth, too.  I'd capture this by saying I want them to be able to think at a higher level when deciding how to represent real world information in their programs.
 

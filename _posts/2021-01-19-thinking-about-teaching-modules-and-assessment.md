@@ -2,7 +2,7 @@
 title: 'Thinking about teaching: Modules & Assessment'
 description: >-
  The CAE at Fairfield is putting on an asynchronous course about teaching. This is the second (of three) pieces about how to organize the course.
-date: '2021-01-15T08:23:49Z'
+date: '2021-01-19T09:43:49Z'
 categories: []
 keywords: [daily]
 slug: /@kootsoop/thinking-about-teaching-goals-and-objectives-2021
@@ -94,7 +94,7 @@ Finally, there needs to be a module about how to get [Eclipse](https://www.eclip
 
 Below is my first attempt at defining modules for the class.  Many of the specific data structure ones can probably be merge together. For example, heaps and stacks should be discussed together, as should trees and graphs.
 
-| Module name | Possible assessment |
+| Module name | Assessment |
 | ------------| ---------- | 
 | Introduction to data structures | Quip document definition of a data structure | 
 | Drawing data structures | Drawing an array and some operations | 

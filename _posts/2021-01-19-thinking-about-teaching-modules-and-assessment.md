@@ -1,5 +1,5 @@
 ---
-title: 'Thinking about teaching: Modules & Assessment'
+title: 'Thinking about teaching: modules & assessment'
 description: >-
  The CAE at Fairfield is putting on an asynchronous course about teaching. This is the second (of three) pieces about how to organize the course.
 date: '2021-01-19T09:43:49Z'

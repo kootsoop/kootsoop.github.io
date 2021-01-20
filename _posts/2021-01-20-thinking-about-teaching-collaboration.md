@@ -85,6 +85,8 @@ I'm going to use the following approach:
  1. When a student edits or reorganizes part of the document, they receive a point.
  1. Once the content for a particular data structure has stabilized, a poll of the students will identify the best addition to the curated content.  The student who originally added that content will receive a bonus point. 
 
+Note that this means it's possible for a student to receive a grade of **one hundred and fifty percent**.
+
 ## Making this up as I go along
 
 I've never used curation as a learning tool.  As a result, I'm making up much of this as I go along.  I will probably revisit this approach once *the rubber hits the road.*  

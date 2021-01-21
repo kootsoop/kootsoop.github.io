@@ -26,7 +26,12 @@ During the pandemic, Philip Machanick suggested that pooled testing can be used 
 
 If the pooled test is positive, then we need to do a series of other tests to identify the person or people within the pool who are positive.  Philip's video explains this process better than I have.
 
-[<p align="center"> <img src="https://kootsoop.github.io/images/machanick.png" height="300" width="400" /> </p>](https://youtu.be/hs2a9fQZOCw "Pooled Testing")
+<p align="center"> 
+<a href="https://youtu.be/hs2a9fQZOCw">
+	<img src="https://kootsoop.github.io/images/machanick.png" width="300" height="200" />
+</a>
+</p>
+
 
 ## Pooled assessment?
 

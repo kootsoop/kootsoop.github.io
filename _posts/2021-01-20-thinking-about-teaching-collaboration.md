@@ -3,7 +3,7 @@ title: 'Thinking about teaching: collaboration'
 description: >-
  The CAE at Fairfield is putting on an asynchronous course about teaching. This is the third (of three?) pieces about how to organize the course.
 date: '2021-01-20T08:43:49Z'
-categories: []
+categories: [data structures]
 keywords: [daily]
 slug: /@kootsoop/thinking-about-teaching-collaboration-2021
 ---

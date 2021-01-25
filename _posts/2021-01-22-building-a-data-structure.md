@@ -3,7 +3,7 @@ title: 'Building a data structure'
 description: >-
  Today, I want to think about how to move from bits to abstractions.
 date: '2021-01-22T08:24:49Z'
-categories: []
+categories: [data structures]
 keywords: [daily]
 slug: /@kootsoop/building-a-data-structure-2021
 ---

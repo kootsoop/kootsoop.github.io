@@ -2,7 +2,7 @@
 title: 'Embrace cancel culture'
 description: >-
  What I mean when I say cancel culture.
-date: '2021-03-03T08:21:49Z'
+date: '2021-03-08T08:21:49Z'
 categories: [life skills]
 keywords: [daily]
 slug: /@kootsoop/embrace-cancel-culture-2021

@@ -27,7 +27,7 @@ General Articles
 
 4.  P.J. Kootsookos, "Lies and Statistics" Column, Weekend Australian
     Financial Review, 01-02/11/2003
-    \[[eprint](https://espace.library.uq.edu.au/view/UQ:10625/Queues.pdf)\].
+    \[[eprint](https://kootsop.github.io/publications/Queues.pdf)\].
 
 5.  P.J. Kootsookos, Letter to the editor, "Disinformation on Digital
     Television", Sydney Morning Herald, 23/12/1999.

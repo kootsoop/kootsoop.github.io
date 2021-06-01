@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Peter J. Kootsookos"
-  avatar           : "PJK-04.png"
+  avatar           : "PJK-05.jpg"
   bio              : "Need to do FUN STUFF! Oz/Irish/US engineer, currently living in the USA. Married, one dog 🐶, one cat 🙀, two kids, and three passports."
   location         : "West Hartford, CT, USA"
   employer         :
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : # "http://orcid.org/yourorcidurl"
+  linkedin         : https://www.linkedin.com/in/peter-kootsookos/
+  orcid            : https://orcid.org/0000-0003-3575-6951
   pinterest        :
   soundcloud       :
   stackoverflow    : "12570"

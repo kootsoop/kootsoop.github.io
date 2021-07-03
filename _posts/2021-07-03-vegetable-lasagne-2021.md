@@ -1,80 +1,91 @@
 ---
-title: 'Meat pies'
+title: 'Vegetable Lasagne'
 description: >-
- Another FB user in a food-and-Australia group that I'm in posted a recipe for meat pies that I thought I'd try. This is it, with some modifications for what I did.
-date: '2021-02-09T08:21:49Z'
+ I'm trying out vegetable-based meals, and I like lasagne, so I thought I'd try a vegetable version.
+date: '2021-07-03T13:53:49Z'
 categories: [recipe]
 keywords: [recipe]
-slug: /@kootsoop/meat-pies-2021
+slug: /@kootsoop/vegetable-lasagne-2021
 ---
 
-# Ryan Mason's meat pies... modulo @kootsoop
-
-Ryan Mason on Facebook shared his recipe for meat pies, and I thought I'd try it out.  I didn't have everything, and wanted to change it up a small bit, so this is what I actually did.
+# Vegetable Lasagne
 
 <p align="center">
-<img src="https://kootsoop.github.io/images/meat_pie.jpg" height="400" width="400" >
+<img src="https://kootsoop.github.io/images/vegetable-lasagne.jpg" height="400" width="400" >
 </p>
 
 ## Ingredients
 
-### Pie base
+### Bechamel Sauce
 
- * 250g unbleached all-purpose flour
- * 300g unbleached all-purpose flour (second step)
- * 2 teaspoons of salt
- * 2 teaspoons of milk powder
- * 200 ml water
- * 125g / 6 tablespoons butter
+ * 2 tablespoons unbleached all-purpose flour
+ * 45g / 2 tablespoons of butter
+ * 1 1/2 cups of milk
+ * Salt, Pepper to taste
  
-### Filling
+### Lentil Sauce
 
- * 750g beef mince
  * 1 onion
- * 60 ml ketchup (tomato sauce!)
- * 1 cup stock
- * 100g unbleached all-purpose flour
+ * 3 cloves of garlic
+ * olive oil
+ * 1 teaspoon dried oregano
+ * 1 can chopped tomatoes
+ * 1 tablespoon of tomato paste
+ * 1 bag of Trader Joe's black lentils
 
-### Pie tops
+### Lasagne
 
-* 1 egg
-* 2 sheets of puff pastry
+* 3 zucchini chopped in half, then cut lengthwise into 4 or five flat pieces
+* 2 cups raw, uncut spinach leaves 
+* 9 pieces lasagne sheet pasta
+* 1 cup grated parmesan cheese
+* 1 cup sliced cheddar
 
 ## Method
-### Preparation
-1. Adjust oven rack to middle-upper position and heat the oven to 220C (425F).
 
-### Pie base
+### Zucchini Preparation
 
-1. Mix 250g flour and 125g butter together in a food processor until it has the consistency of sand or breadcrumbs.
-1. Mix in 200 ml of water and the other 300g of flour.
-1. Press gently together so that it comes together.
-1. Wrap in clingfilm and refrigerate for at least 30 minutes.
+1. Lay out cut zucchini on a baking tray.
+1. Place under grill for 8 minutes until some *small* parts are blackening.
+1. Flip zucchini pieces and grill for another 5 minutes for more *minor* blackness.
+1. Set aside for construction.
 
-### Filling
+### Bechamel Sauce
 
-1. Finely dice the onion and saute it in oil until it is fully cooked.
-1. Add beef mince and brown it in the pan.
-1. Drain off excess oil as it appears.
-1. Combine stock, ketchup, flour, and stir thoroughly.
-1. Add extra water to mixture, as appropriate, to keep it moving but not too watery.
+1. Melt butter in a small saucepan over a medium heat.
+1. Mix flour into butter until an even paste forms.
+1. Keep heating for another two to three minutes. Do not let the past boil.
+1. Add warmed milk to paste. Mix well.
+1. Keep heating until milk just boils and mixture thickens.
+1. Remove from heat and set aside for construction.
 
-### Making pies
+### Lentil Sauce
 
-1. Roll out pie base to desired thickness.
-1. Cover base of non-stick pie tins with pie base (<a target="_blank" href="https://www.amazon.com/gp/product/B000F7A5PS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000F7A5PS&linkCode=as2&tag=kootsoop-20&linkId=3e1cbcf1d4c4f38261a384744c6b6159">Norpro Nonstick Mini Pie Pans, Set of 4, 5in/13cm x 1.25in/3cm, Silver</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=kootsoop-20&l=am2&o=1&a=B000F7A5PS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />).
-1. Leave enough dough on edges of tins to allow sealing of the top (covering the flat edges of pie tin should be enough).
-1. Fill pie bases with filling.
-1. Mix the egg in a bowl or cup and brush egg on edges of pie base.
-1. Top the pies with puff pastry.
-1. With a fork, go around the edges of the pies to press puff pastry into pie base.
-1. Brush tops of puff pastry with egg mix to get a shiny top on baked pies.
+1. Finely dice the onion and saute it in oil with finely diced garlic until it is fully cooked (onion should be clear, but not browned).
+1. Add can of tomatoes and tomato paste.
+1. Stir in oregano.
+1. Boil mixture until it's fully warmed.
+1. Add black lentils. Lentils are already cooked, so only leave on heat until fully warmed.
+1. Set aside for construction.
+
+### Construction
+
+1. Use a 9 inch x 13 inch x 2 inch baking dish.
+1. Get 3/4 cup of lentil sauce and cover base of dish.
+1. Place three pieces of lasagne pasta across dish.
+1. Place four pieces of blackened zucchini across each piece of pasta.
+1. Sprinkle spinach leaves liberally across zucchini.
+1. Spread bechamel sauce across spinach leaves.
+1. Place two slices of cheddar on each piece of pasta.
+1. Repeat steps 2 through 7.
+1. Repeat steps 2, 3, and 4.
+1. Cover top layer with parmesan cheese.
 
 ### Baking
 
-1. Bake pies for about 20 minutes at 220C (425F) in a regular oven. Adjust time / temperature if you're using a fan-forced one.
-
-
+1. Cover dish with aluminium foil.
+1. Bake dish for about 35 minutes at 220C (425F) in a regular oven. Adjust time / temperature if you're using a fan-forced one.
+1. Take foil off dish and melt / burn cheese under grill for 5 to 10 minutes.
 
 
 

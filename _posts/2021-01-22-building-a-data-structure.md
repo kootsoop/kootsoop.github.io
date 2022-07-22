@@ -167,6 +167,6 @@ So, getting back to our example, we've allocated memory for a length five array.
 
 ## Much more to talk about
 
-There is much more to talk about. The above is a simplistic view of how memory gets allocated. For example, both [Java](https://www.guru99.com/java-stack-heap.html)  and [C++](https://stackoverflow.com/questions/408670/stack-static-and-heap-in-c) use different parts of memory for different things: the stack, the heap, and static.
+There is much more to talk about. The above is a simplistic view of how memory gets allocated. For example, both [Java](https://www.guru99.com/java-stack-heap.html)  and [C++](https://stackoverflow.com/questions/408670/stack-static-and-heap-in-c) use different parts of memory for different things: [the stack](https://www.scaler.com/topics/stack-operations-in-data-structures/), the heap, and static.
 
 However, this was aimed as just a starting point.  I'll return to a more detailed discussion of this at a later stage.

@@ -313,6 +313,12 @@ Published Conference Papers
     Proceedings of IREECON\'87, September 1987, pp.845-848
     \[[eprint](https://espace.library.uq.edu.au/view/UQ:10629)\].
 
+Poster Presentations
+--------------------
+
+1. P.J. Kootsookos, K. Huang, D.J. Broderick, "CT Public Library Robotics Workshops," NASA CT Space Grant Consortium Symposium, New England Air Museum, November 10, 2023.
+
+
 Technical Reports
 -----------------
 

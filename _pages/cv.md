@@ -56,19 +56,19 @@ technical publications in conferences and international journals.
 Grants and Awards
 =================
 
-**2023 Connecticut Open Educational Resources Grant Program**
+***2023 Connecticut Open Educational Resources Grant Program***
 David Broderick (CCSU) and I received $11,600 for producing Circuit Analysis an online open educational resource covering introductory material in circuit analysis.
 
-**2022 NASA CT Space Grant Consortium**
+***2022 NASA CT Space Grant Consortium***
 Kevin Huang (Trinity College), David Broderick (CCSU), and I received $2000 for “CT Public Library Robotics Workshops” to provide robotics instruction for grades 4 to 8 in various Connecticut public libraries.
 
-**2019/2020 CCSU Excellence In Teaching Honor Roll**
+***2019/2020 CCSU Excellence In Teaching Honor Roll***
 Nominated by (anonymous) students for excellence in teaching.
 
-**2019/2020 Faculty-Student CCSU Foundation Grant**
+***2019/2020 Faculty-Student CCSU Foundation Grant***
 In collaboration with Dr. L. Amaya, and students S. Maynard, S. Santillan, and A. Robles: *Motorized Head Shield for Cars.*
 
-**2019/2020 CCCU Curriculum Development Grant**
+***2019/2020 CCCU Curriculum Development Grant***
 In collaboration with Dr. D. J. Broderick, *Aligning Computer Engineering Technology and Electrical Engineering Curricula with the Fundamentals of Engineering Exam in Connecticut.*
 
 ***2008 UTC Fire & Security President\'s Award for Product Innovation***

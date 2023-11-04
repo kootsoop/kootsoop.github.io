@@ -20,10 +20,7 @@ Peter James **KOOTSOOKOS**
 Australia, Ireland, USA
 
 #### Telephone 
-+1 860 269 0080 (Work)
-
 +1 860 206 7488 (Home)
-
 +1 860 543 5917 (Cell)
 
 #### Home Address 

@@ -56,6 +56,12 @@ technical publications in conferences and international journals.
 Grants and Awards
 =================
 
+**2023 Connecticut Open Educational Resources Grant Program**
+David Broderick (CCSU) and I received $11,600 for producing Circuit Analysis an online open educational resource covering introductory material in circuit analysis.
+
+**2022 NASA CT Space Grant Consortium**
+Kevin Huang (Trinity College), David Broderick (CCSU), and I received $2000 for “CT Public Library Robotics Workshops” to provide robotics instruction for grades 4 to 8 in various Connecticut public libraries.
+
 **2019/2020 CCSU Excellence In Teaching Honor Roll**
 Nominated by (anonymous) students for excellence in teaching.
 
@@ -110,32 +116,41 @@ in Electrical Engineering most able to do so (awarded March 6, 1987).
  Membership of Professional Organizations
 =========================================
 
-I am a Senior Member of the Institution of Electrical and Electronics
-Engineers (IEEE). I was Chair of the Connecticut Section of IEEE for
-2016-2017. In 2019, I am the Awards committee Chair and the Vice-Chair
-of the technical joint chapter of the Computer, Systems, Man, &
-Cybernetics, and the Social Implications of Technology Societies.
+I am a Senior Member of the Institution of Electrical and Electronics Engineers (IEEE). I was Chair of the Connecticut Section of IEEE for 2016-2017 and am currently Vice-Chair of the Section.
+
+I am a Member of the Association of Computing Machinery (ACM).
+
+I am a Program Evaluator with ABET for computer science (Computing Accreditation Commission / CAC) and software engineering (Engineering Accreditation Commission / EAC).
+
 
 Employment History
 ==================
 
-### Adjunct, Fairfield University (01/2017 to present)
+### Instructor, Middlesex Community College	(08/2022 to present)
 
-Employed as an adjunct professor teaching:
+Instructor in engineering and computer science. Helps look after the Tech Center, a place where students can explore different technologies.
 
--   *SW0400/0300/0201 Software Engineering Methods*: Use of UML to
-    capture software requirements and perform software design. SW0400 is
-    the postgraduate variant. SW0201 was renumbered SW0300
+### Analysis & Research, Inc (09/2021 to present)
 
--   *SW416 Mobile Application Development:* Develop a mobile application
-    from scratch using the Xamarin C\# development tool from Microsoft.
+Actively participates in multiple IP litigations in the areas of Network & Telecommunication systems, Software systems, Hardware systems. Activities include review of technical documents, detailed source code review to map claim elements to actual implementation, and deep technical research of publicly available documents.
 
--   *SW0421 Software Project Management:* Tools and techniques for
-    estimating, planning, and executing software projects from a project
-    management viewpoint. Traditional waterfall and agile methodologies
-    are taught, with an emphasis on traditional methodologies.
+1.	SMITH INTERFACE TECHNOLOGIS, LLC. Vs SAMSUNG ELECTRONICS CO., LTD., and SAMSUNG ELECTRONICS AMERICA, INC. (Case 2:22-cv-00290-JRG-RSP)
+2.	INQUISIENT INC. Vs SERVICENOW, INC. (C.A. No. 22-cv-900-CJB)
+3.	FINESSE WIRELESS, LLC. Vs. AT&T MOBILITY, LLC. (C.A. No. 2-21-cv-0316-JRG) 
+4.	FINESSE WIRELESS, LLC. Vs. CELLCO PARTNERSHIP d/b/a VERIZON WIRELESS (C.A. No. 2-21-cv-0317-JRG)
+5.	Certain Video Security Equipment and Systems, Related Software, Components Thereof, And Products Containing Same (US ITC Investigation No. 337-TA-1281) (represented Motorola Solutions, Inc.)
+6.	POWER PROBE GROUP, INC. and, POWER PROBE TEK, LLC, Vs. INNOVA ELECTRONICS CORPORATION (C.A. No. 2:21-cv-00332-GMN-EJY)
+7.	DDR HOLDINGS, LLC Vs. Booking.com (Case No. 17-498-CFC)
+8.	EQUIL IP HOLDINGS LLC Vs. AKAMAI TECHNOLOGIES, INC. (C.A. No. 22-677-RGA)
+9.	AKAMAI TECHNOLOGIES, INC. Vs. AUTOMATED MEDIA PROCESSING SOLUTIONS, INC. (C.A. No. 22-1531-RGA)
+10.	ROBOTICVISIONTECH, INC. Vs ABB INC., (C.A. No: 22-cv-01257-GBW)
 
-### Adjunct, Central Connecticut State University (08/2017 to present)
+### Founder, Teeny Tiny Apps LLC (01/2020 to present)
+
+Founder and principal developer distributing apps for small business owners to the Google Play and Apple App stores. Development in Swift, C#, Java, and Python.
+
+
+### Adjunct, Central Connecticut State University (08/2017 to 05/2022, 08/2023)
 
 Employed as an adjunct professor (emergency faculty during Fall 2018)
 teaching:
@@ -161,6 +176,27 @@ teaching:
 -   *CET497/498* *Capstone I & II:* Leading teams of senior students
     in developing their capstone projects. (S19/F19)
 
+-   *EE101 Electric Circuits I:** Teaching introductory circuit analysis
+    for DC and AC circuits. Ohm's law, mesh analysis, nodal analysis,
+    superposition, maximum power transfer, Thevenin equivalents, Norton
+    equivalents, phasors, steady state, and transient analysis. (F23)
+
+### Adjunct, Fairfield University (01/2017 to 08/2021)
+
+Employed as an adjunct professor teaching:
+
+-   *SW0400/0300/0201 Software Engineering Methods*: Use of UML to
+    capture software requirements and perform software design. SW0400 is
+    the postgraduate variant. SW0201 was renumbered SW0300
+
+-   *SW416 Mobile Application Development:* Develop a mobile application
+    from scratch using the Xamarin C\# development tool from Microsoft.
+
+-   *SW0421 Software Project Management:* Tools and techniques for
+    estimating, planning, and executing software projects from a project
+    management viewpoint. Traditional waterfall and agile methodologies
+    are taught, with an emphasis on traditional methodologies.
+
 ### Software Architect, Noster Mobile (02/2013 to 12/2018)
 
 Worked with eMuse's sister company to develop the Hopr location-based
@@ -175,7 +211,7 @@ the Raven content management tool for digital video operators. Raven/ADS
 is deployed production broadcast networks in AT&T U-Verse in the United
 States and SwissCom in Switzerland.
 
-### Adjunct, University of New Haven (09/2011 to 05/2013)
+### Adjunct, University of New Haven (09/2011 to 05/2013, 01/2022 to 12/2022)
 
 Employed as an adjunct teaching postgraduate courses:
 

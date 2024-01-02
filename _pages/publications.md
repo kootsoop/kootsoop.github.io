@@ -48,6 +48,11 @@ Theses
 2.  P.J. Kootsookos, "A Critical Examination of Time-Frequency
     Filtering," M.Eng.Sc. thesis, University of Queensland, 1989.
 
+Book
+----
+
+1. D. J. Broderick and P. J. Kootsookos, "Circuit Analysis" [Online](https://circuit-analysis.github.io/intro.html), December 2023.
+
 Book Chapters
 -------------
 

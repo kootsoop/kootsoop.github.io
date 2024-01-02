@@ -127,6 +127,30 @@ Employment History
 
 Instructor in engineering and computer science. Helps look after the Tech Center, a place where students can explore different technologies.
 
+- *CSA140 Database Applications:* Introduction to Microsoft's Access database. (F22)
+
+- *CSC101 / CIS1001 Introduction to Computers:* Introduction to computers, especially the Office suite of productivity tools. (F22, S23)
+
+- *CSC1203 Python Fundamentals :* Introduction to designing databases using MS Access. (S24)
+
+- *CSC1231 Database Development and Design I:* Introduction to designing databases using MS Access. (F23, S24)
+
+- *CSC231 Database Design I:* Introduction to designing databases using MS Access + MySQL. (S23)
+
+- *CSC2217 Digital Design:* Designing combinational and sequential circuits. (S24)
+
+- *CSC2274 Client-Side Web Development:* HTML, CSS, and JavaScript programming. (F23)
+
+- *CST1111 Computer Hardware:* How to take a computer apart and put it back together again. 
+
+- *CST201 Introduction to MIS:* Introduction to management information systems databases. (F22)
+
+- *EET252 Digital Electronics:* Designing combinational and sequential circuits. (S23)
+
+- *EGR111 / EGR1110 Introduction to Engineering:* An introduction to engineering topics and techniques. (F22, F23)
+
+- *EGR221 Introduction to Electric Circuit Analysis:* Circuit analysis introduction. (S23)
+
 ### Analysis & Research, Inc (09/2021 to present)
 
 Actively participates in multiple IP litigations in the areas of Network & Telecommunication systems, Software systems, Hardware systems. Activities include review of technical documents, detailed source code review to map claim elements to actual implementation, and deep technical research of publicly available documents.
@@ -148,6 +172,8 @@ Actively participates in multiple IP litigations in the areas of Network & Telec
 
 Founder and principal developer distributing apps for small business owners to the Google Play and Apple App stores. Development in Swift, C#, Java, and Python.
 
+- *Take-A-Number:* [An deli counter ticketing app.](https://tan.kootsoop.com/)
+- *Come On Down:* [An app for choosing students in class.](https://apps.apple.com/us/app/come-on-down/id1583936780)
 
 ### Adjunct, Central Connecticut State University (08/2017 to 05/2022, 08/2023)
 

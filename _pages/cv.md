@@ -65,7 +65,7 @@ Nominated by (anonymous) students for excellence in teaching.
 ***2019/2020 Faculty-Student CCSU Foundation Grant***
 In collaboration with Dr. L. Amaya, and students S. Maynard, S. Santillan, and A. Robles: *Motorized Head Shield for Cars.*
 
-***2019/2020 CCCU Curriculum Development Grant***
+***2019/2020 CCSU Curriculum Development Grant***
 In collaboration with Dr. D. J. Broderick, *Aligning Computer Engineering Technology and Electrical Engineering Curricula with the Fundamentals of Engineering Exam in Connecticut.*
 
 ***2008 UTC Fire & Security President\'s Award for Product Innovation***
@@ -131,7 +131,7 @@ Instructor in engineering and computer science. Helps look after the Tech Center
 
 Actively participates in multiple IP litigations in the areas of Network & Telecommunication systems, Software systems, Hardware systems. Activities include review of technical documents, detailed source code review to map claim elements to actual implementation, and deep technical research of publicly available documents.
 
-1.	SMITH INTERFACE TECHNOLOGIS, LLC. Vs SAMSUNG ELECTRONICS CO., LTD., and SAMSUNG ELECTRONICS AMERICA, INC. (Case 2:22-cv-00290-JRG-RSP)
+1.	SMITH INTERFACE TECHNOLOGIES, LLC. Vs SAMSUNG ELECTRONICS CO., LTD., and SAMSUNG ELECTRONICS AMERICA, INC. (Case 2:22-cv-00290-JRG-RSP)
 2.	INQUISIENT INC. Vs SERVICENOW, INC. (C.A. No. 22-cv-900-CJB)
 3.	FINESSE WIRELESS, LLC. Vs. AT&T MOBILITY, LLC. (C.A. No. 2-21-cv-0316-JRG) 
 4.	FINESSE WIRELESS, LLC. Vs. CELLCO PARTNERSHIP d/b/a VERIZON WIRELESS (C.A. No. 2-21-cv-0317-JRG)
@@ -141,6 +141,8 @@ Actively participates in multiple IP litigations in the areas of Network & Telec
 8.	EQUIL IP HOLDINGS LLC Vs. AKAMAI TECHNOLOGIES, INC. (C.A. No. 22-677-RGA)
 9.	AKAMAI TECHNOLOGIES, INC. Vs. AUTOMATED MEDIA PROCESSING SOLUTIONS, INC. (C.A. No. 22-1531-RGA)
 10.	ROBOTICVISIONTECH, INC. Vs ABB INC., (C.A. No: 22-cv-01257-GBW)
+11.	NEC Vs. Peleton (C.A. No. 22-cv-987-CJB)
+12.	IBM Vs. Zynga (C.A. No. 22-cv-590-GBW)
 
 ### Founder, Teeny Tiny Apps LLC (01/2020 to present)
 
@@ -173,7 +175,7 @@ teaching:
 -   *CET497/498* *Capstone I & II:* Leading teams of senior students
     in developing their capstone projects. (S19/F19)
 
--   *EE101 Electric Circuits I:** Teaching introductory circuit analysis
+-   *EE101 Electric Circuits I:* Teaching introductory circuit analysis
     for DC and AC circuits. Ohm's law, mesh analysis, nodal analysis,
     superposition, maximum power transfer, Thevenin equivalents, Norton
     equivalents, phasors, steady state, and transient analysis. (F23)

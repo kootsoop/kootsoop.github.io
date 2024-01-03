@@ -1,7 +1,7 @@
 ---
 title: 'Robot Feet, Part 1'
 description: >-
- A friend is going vegan for health reasons, and I wanted to bring some baked goods to their place, so thought I'd try this out.
+ Starting to find out how to design robot feet.
 date: '2024-01-02T20:37:00Z'
 categories: [robot, feet]
 keywords: [robot]

@@ -49,7 +49,17 @@ Unfortunately, that didn't help the dog's ability to walk on carpet.
 
 ### Part 2: How to design feet?
 
-My initial attempts to find out how to design robot feet met with not many good results.  Eventually, I found [this masters thesis](https://ltu.diva-portal.org/smash/get/diva2:1588775/FULLTEXT01.pdf) by Scott Fredriksson.
+My initial attempts to find out how to design robot feet met with not many good results.
+
+Eventually, I found [this project](https://engineeringdesignfair.ucalgary.ca/mechanical/multifunctional-quadruped-robot-feet/) by Kaela Arts, Lochlan Cuthbertson, Mackenzie Gavin, Qass Huffington, Zoraak Magsi, and Shelby Rawlusyk.
+
+The key part, for me was their innovation:
+
+> The design is innovative in its simplicity. It combines the wheel and foot into one mechanism for ease of use. Rather than having an attachable wheel, the wheel was integrated directly into the design and can be easily switched to the ‘foot engaged mode’ by hand. The design is user friendly and can be swapped over in under three minutes.
+
+However, I wanted to dig a bit more.
+
+That digging led me to [this masters thesis](https://ltu.diva-portal.org/smash/get/diva2:1588775/FULLTEXT01.pdf) by Scott Fredriksson.
 
 A picture of Scott's quadruped is below.
 

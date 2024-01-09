@@ -5,7 +5,7 @@ description: >-
 date: '2024-01-09T08:24:00Z'
 categories: [robot, feet]
 keywords: [robot]
-slug: /@kootsoop/robot-feet-part-1
+slug: /@kootsoop/robot-feet-part-2
 ---
 
 # Robot Feet

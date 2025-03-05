@@ -129,25 +129,25 @@ Instructor in engineering and computer science. Helps look after the Tech Center
 
 - *CSA140 Database Applications:* Introduction to Microsoft's Access database. (F22)
 
-- *CSC101 / CIS1001 Introduction to Computers:* Introduction to computers, especially the Office suite of productivity tools. (F22, S23)
+- *CSC101 / CIS1001 Introduction to Computers:* Introduction to computers, especially the Office suite of productivity tools. (F22, S23, S24, F24)
 
-- *CSC1203 Python Fundamentals :* Introduction to designing databases using MS Access. (S24)
+- *CSC1203 Python Fundamentals :* Introduction to designing databases using MS Access. (S24, S25)
 
 - *CSC1231 Database Development and Design I:* Introduction to designing databases using MS Access. (F23, S24)
 
-- *CSC231 Database Design I:* Introduction to designing databases using MS Access + MySQL. (S23)
+- *CSC231 Database Design I:* Introduction to designing databases using MS Access + MySQL. (S23, F23, S24, F24, F25)
 
-- *CSC2217 Digital Design:* Designing combinational and sequential circuits. (S24)
+- *CSC2217 Digital Design:* Designing combinational and sequential circuits. (S24, F25)
 
-- *CSC2274 Client-Side Web Development:* HTML, CSS, and JavaScript programming. (F23)
+- *CSC2274 Client-Side Web Development:* HTML, CSS, and JavaScript programming. (F23, F24, S25)
 
-- *CST1111 Computer Hardware:* How to take a computer apart and put it back together again. 
+- *CST1111 Computer Hardware:* How to take a computer apart and put it back together again. (F23, F25)
 
 - *CST201 Introduction to MIS:* Introduction to management information systems databases. (F22)
 
 - *EET252 Digital Electronics:* Designing combinational and sequential circuits. (S23)
 
-- *EGR111 / EGR1110 Introduction to Engineering:* An introduction to engineering topics and techniques. (F22, F23)
+- *EGR111 / EGR1110 Introduction to Engineering:* An introduction to engineering topics and techniques. (F22, F23, F24, F25)
 
 - *EGR221 Introduction to Electric Circuit Analysis:* Circuit analysis introduction. (S23)
 
@@ -216,6 +216,9 @@ teaching:
     for DC and AC circuits. Ohm's law, mesh analysis, nodal analysis,
     superposition, maximum power transfer, Thevenin equivalents, Norton
     equivalents, phasors, steady state, and transient analysis. (F23)
+
+- *EE430 RF Communications:* Teaching an introductory radio frequency 
+   communications course. (S25)
 
 ### Adjunct, Fairfield University (01/2017 to 08/2021)
 

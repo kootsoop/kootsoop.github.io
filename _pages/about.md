@@ -9,3 +9,13 @@ redirect_from:
 ---
 
 This website has some of the professional work that Peter Kootsookos does as an engineer.
+
+# Books
+
+[Circuit Analysis](https://circuit-analysis.github.io/intro.html)
+
+[Digital Design](https://cv.kootsoop.com/digital-design)
+
+[RF Communications](https://cv.kootsoop.com/rf_comms)
+
+

@@ -53,6 +53,21 @@ technical publications in conferences and international journals.
 Grants and Awards
 =================
 
+***2025 President’s Award for Innovation & Technology***
+This award was given by President Maduko of the Connecticut State Community College in recognition of my support and outreach using technology in robotics, IT support, and my network of colleagues.
+
+***2024-25 NASA CT Space Grant Consortium***
+As faculty advisor for a team of three students for the Quadcopter Challenge, I am receiving $2000.
+
+***2024 STEAM Train Champion Award***
+For supporting STEAM Train, Inc.’s mission of moving generations of unrepresented people to STEM.
+
+***2023-24 Merit Award CT State, Middlesex***
+Received $1500 for one or more nominations for unusual service, superior performance, exceptional duty, and excellence in teaching.
+
+***2023-24 NASA CT Space Grant Consortium***
+As faculty advisor for a team of five students for the Quadcopter Challenge, I am receiving $2000.
+
 ***2023 Connecticut Open Educational Resources Grant Program***
 David Broderick (CCSU) and I received $11,600 for producing Circuit Analysis an online open educational resource covering introductory material in circuit analysis.
 
@@ -129,7 +144,7 @@ Instructor in engineering and computer science. Helps look after the Tech Center
 
 - *CSA140 Database Applications:* Introduction to Microsoft's Access database. (F22)
 
-- *CSC101 / CIS1001 Introduction to Computers:* Introduction to computers, especially the Office suite of productivity tools. (F22, S23, S24, F24)
+- *CSC101 / CIS1001 Introduction to Computers:* Introduction to computers, especially the Office suite of productivity tools. (F22, S23, S24, F24, SM25)
 
 - *CSC1203 Python Fundamentals :* Introduction to designing databases using MS Access. (S24, S25)
 
@@ -177,7 +192,6 @@ Actively participates in multiple IP litigations in the areas of Network & Telec
 20.	DAILY NEWS, LP; CHICAGO TRIBUNE COMPANY, LLC; ORLANDO SENTINEL COMMUNICATIONS COMPANY, LLC; SUN-SENTINEL COMPANY, LLC; SAN JOSE MERCURY- NEWS, LLC; DP MEDIA NETWORK, LLC; ORB PUBLISHING, LLC; AND NORTHWEST PUBLICATIONS, LLC, v. MICROSOFT CORPORATION, OPENAI, INC., OPENAI LP, OPENAI GP, LLC, OPENAI, LLC, OPENAI OPCO, LLC, OPENAI GLOBAL, LLC, OAI CORPORATION, LLC, and OPENAI HOLDINGS, LLC, (Civil Action No. 1:24-cv-03285-SHS, Southern District of New York)
 21.	X Corp. v. Bright Data, Ltd., (No. C 23-03698-WHA, N.D. Cal.)
 22.	FOUR BATONS WIRELESS, LLC v. SAMSUNG ELECTRONICS CO., LTD., SAMSUNG ELECTRONICS AMERICA, INC. (Case No. 2:24-CV-0284-JRG, Eastern District of Texas, Marshall Divisio)
-
 
 ### Founder, Teeny Tiny Apps LLC (01/2020 to present)
 

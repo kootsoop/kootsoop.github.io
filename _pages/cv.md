@@ -128,7 +128,7 @@ in Electrical Engineering most able to do so (awarded March 6, 1987).
  Membership of Professional Organizations
 =========================================
 
-I am a Senior Member of the Institution of Electrical and Electronics Engineers (IEEE). I was Chair of the Connecticut Section of IEEE for 2016-2017 and am currently Vice-Chair of the Section.
+I am a Senior Member of the Institution of Electrical and Electronics Engineers (IEEE). I was Chair of the Connecticut Section of IEEE for 2016-2017 and again for 2024-2025 (May).
 
 I am a Member of the Association of Computing Machinery (ACM).
 

@@ -22,8 +22,8 @@ This website has some of the professional work that Peter Kootsookos does as an 
 
 [A Byte Of Python](https://cv.kootsoop.com/byte-of-python/) : My version of [C.H. Swaroop's](https://oercommons.org/browse?f.author=Swaroop+C.H.) text book.
 
-[Grosserie App on AppStore]("https://apps.apple.com/us/app/grosserie/id6748264839)
+[Grosserie App on AppStore](https://apps.apple.com/us/app/grosserie/id6748264839)
 
-[Grosserie Website]("https://grosserie.kootsoop.com)
+[Grosserie Website](https://grosserie.kootsoop.com)
 
 

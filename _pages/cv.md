@@ -167,7 +167,8 @@ Actively participates in multiple IP litigations in the areas of Network & Telec
 23.	ARISTOCRAT TECHNOLOGIES, INC. and ARISTOCRAT TECHNOLOGIES AUSTRALIA PTY LTD., v. LIGHT & WONDER, INC., LNW GAMING, INC., and SCIPLAY CORPORATION, (Case No. 2:24-cv-00382-GMN-MDC, United States District Court District Of Nevada)
 24.	VOXTUR ANALYTICS CORP., an Ontario corporation (Canada); APPRAISERS NOW, LTD., an Ontario corporation (Canada) and APPRAISERS NOW US, LLC, a Delaware limited liability company, v. MARTY HALDANE, an individual; DWELLING BLOCKS, LLC., a Delaware limited liability company; VIACHESLAV MEDNIKOV, an individual; RYAN DIAL, an individual; OLENA OVCHARENKO, an individual; BEN WILFRED, an individual; and DOES 1 through 10 (Case 1:25-cv-00742-UNA, United States District Court District Of Delaware).
 25.	Neural AI, LLC v. NVIDIA Corporation (Case No. 7:24-CV-00221-DC-DTG UNITED STATES DISTRICT COURT FOR THE WESTERN DISTRICT OF TEXAS MIDLAND-ODESSA DIVISION)
-26.	ZOOMINFO TECHNOLOGIES LLC, v. ZENLEADS INC. (d/b/a APOLLO.IO), (C.A. No. 25-cv-324-JCG, United States District Court District Of Delaware). 
+26.	ZOOMINFO TECHNOLOGIES LLC, v. ZENLEADS INC. (d/b/a APOLLO.IO), (C.A. No. 25-cv-324-JCG, United States District Court District Of Delaware).
+27.	ZOPHONOS INC., v. SAMSUNG ELECTRONICS CO., LTD, AND SAMSUNG ELECTRONICS AMERICA, INC., (Case No. 2:25-cv-00752-JRG Eastern District of Texas Marshal Division) 
 
 
 ### Founder, Teeny Tiny Apps LLC (01/2020 to present)

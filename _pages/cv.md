@@ -187,9 +187,9 @@ Instructor in engineering and computer science. Helps look after the Tech Center
 
 - *CSC101 / CIS1001 Introduction to Computers:* Introduction to computers, especially the Office suite of productivity tools. (F22, S23, S24, F24, SM25)
 
-- *CSC1203 Python Fundamentals :* Introduction to designing databases using MS Access. (S24, S25)
+- *CSC1203 Python Fundamentals :* Introduction to designing databases using MS Access. (S24, S25, S26)
 
-- *CSC1231 Database Development and Design I:* Introduction to designing databases using MS Access. (F23, S24)
+- *CSC1231 Database Development and Design I:* Introduction to designing databases using MS Access. (F23, S24, F26)
 
 - *CSC231 Database Design I:* Introduction to designing databases using MS Access + MySQL. (S23, F23, S24, F24, F25)
 
@@ -203,7 +203,7 @@ Instructor in engineering and computer science. Helps look after the Tech Center
 
 - *EET252 Digital Electronics:* Designing combinational and sequential circuits. (S23)
 
-- *EGR111 / EGR1110 Introduction to Engineering:* An introduction to engineering topics and techniques. (F22, F23, F24, F25)
+- *EGR111 / EGR1110 Introduction to Engineering:* An introduction to engineering topics and techniques. (F22, F23, F24, F25, S26, F26)
 
 - *EGR221 Introduction to Electric Circuit Analysis:* Circuit analysis introduction. (S23)
 

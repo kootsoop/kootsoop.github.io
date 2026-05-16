@@ -172,7 +172,6 @@ Actively participates in multiple IP litigations in the areas of Network & Telec
 28.	NOBOTS LLC, v GOOGLE LLC (Case No. 6:21-cv-1290-ADA WESTER DISTRICT OF TEXAS WACO DIVISION)
 
 
-
 ### Founder, Teeny Tiny Apps LLC (01/2020 to present)
 
 Founder and principal developer distributing apps for small business owners to the Google Play and Apple App stores. Development in Swift, C#, Java, and Python.

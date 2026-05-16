@@ -340,10 +340,10 @@ N. Liu: *Hand gesture recognition by hidden Markov models*, completed
 2004, (advisor: B. C. Lovell).
 
 S. Clode: *Automated Vector Extraction from Airborne Laser Scan Data*,
-current, (co-advisor: K. Kubik)
+completed, (co-advisor: K. Kubik)
 
 S. Lehmann: *Estimation of 3D rigid body transformations from image
-sequences*, current, (advisor: A. Bradley)
+sequences*, completed, (advisor: A. Bradley)
 
 Taught:
 

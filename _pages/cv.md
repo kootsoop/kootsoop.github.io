@@ -181,8 +181,9 @@ Actively participates in multiple IP litigations in the areas of Network & Telec
 
 Founder and principal developer distributing apps for small business owners to the Google Play and Apple App stores. Development in Swift, C#, Java, and Python.
 
-- *Take-A-Number:* [An deli counter ticketing app.](https://tan.kootsoop.com/)
-- *Come On Down:* [An app for choosing students in class.](https://apps.apple.com/us/app/come-on-down/id1583936780)
+- *Take-A-Number:* An deli counter ticketing app.
+- *Come On Down:* An app for choosing students in class.
+- *Grosserie:* An app for shopping lists.
 
 ### Instructor, Middlesex Community College	(08/2022 to 08/2025)
 

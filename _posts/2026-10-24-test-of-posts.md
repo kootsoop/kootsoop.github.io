@@ -1,5 +1,5 @@
 ---
-layout: post
+layout:
 title: "Test of posts"
 date: 2026-10-24 16:52:26 -0400
 ---

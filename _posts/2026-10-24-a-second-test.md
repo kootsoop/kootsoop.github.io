@@ -1,5 +1,5 @@
 ---
-layout: post
+layout:
 title: "A second test…"
 date: 2026-10-24 17:00:39 -0400
 ---
